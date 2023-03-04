@@ -1,0 +1,10 @@
+1. Wyświetla wszystkie bieżące wartości konfiguracyjne sieci TCP/IP i odświeża ustawienia protokołu dynamicznej konfiguracji hosta (DHCP) i systemu nazw domen (DNS). 
+Używany bez parametrów, ipconfig wyświetla adresy protokołu internetowego w wersji 4 (IPv4) i IPv6, maskę podsieci i domyślną bramę dla wszystkich adapterów.
+2. Wyświetla pełną konfigurację protokołu TCP/IP dla wszystkich kart. Adaptery mogą reprezentować interfejsy fizyczne, takie jak zainstalowane adaptery sieciowe, lub interfejsy logiczne, takie jak połączenia dial-up.
+3. tak
+4. zajęcie ip, trwa zależnie od ustawienia
+5. Wyświetla zawartość pamięci podręcznej programu rozpoznawania nazw klientów DNS, która obejmuje zarówno wpisy wstępnie załadowane z lokalnego pliku Hosts, jak i wszelkie ostatnio uzyskane rekordy zasobów dotyczące zapytań o nazwy rozwiązanych przez komputer. 
+Usługa klienta DNS używa tych informacji do szybkiego rozpoznawania często wyszukiwanych nazw przed wysłaniem zapytania do skonfigurowanych serwerów DNS.
+6. Nie, aby to sprawdzić trzeba dopisać /all
+7. Tak, różnią się chociażby długością
+8. Adres MAC jest 48-bitowym adresem szesnastkowym, a Adres IPv4 to adres 32-bitowy, natomiast adres IPv6 to adres 128-bitowy 
